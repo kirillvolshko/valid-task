@@ -1,0 +1,17 @@
+.container{
+    width: 600px;
+    height: 600px;
+    background-color: rgba(10, 176, 226, 0.308);
+    border: solid none;
+    border-radius: 10px;
+}
+
+.text-container{
+    margin: 50px;
+    text-align: center;
+}
+.text-content{
+    color: black;
+    font-size: 20pt;
+    font-weight: bold;
+}
